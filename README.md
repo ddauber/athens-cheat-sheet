@@ -1,6 +1,8 @@
 # Athens Cheat Sheet
  
- This is a cheat sheet for Athens (note-taking app) users. It will be updated regularly.
+ This is a [cheat sheet for Athens](https://github.com/ddauber/athens-cheat-sheet/raw/main/athens_cheatsheet_20210308.pdf) (note-taking app) users. It will be updated regularly.
+ 
+ [Download here](https://github.com/ddauber/athens-cheat-sheet/raw/main/athens_cheatsheet_20210308.pdf)
  
 [<img width="1222" alt="Screenshot 2021-03-08 at 11 01 29" src="https://user-images.githubusercontent.com/62331069/110312916-a49ae480-7ffd-11eb-944e-37c5e89fe5bc.png">](https://github.com/ddauber/athens-cheat-sheet/raw/main/athens_cheatsheet_20210308.pdf)
 
