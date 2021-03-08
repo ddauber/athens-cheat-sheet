@@ -6,6 +6,6 @@
 
 Not using Athens yet? Get it here:
 
-[Athens on Github](https://github.com/athensresearch) \n
-or \n
+[Athens on Github](https://github.com/athensresearch)
+or
 [Athens on Open Collective](https://opencollective.com/athens/)
